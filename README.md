@@ -1,4 +1,9 @@
-# headless_chrome_stuff
+# Headless Chrome vs Barracuda BOT Protection
+
+# DEMO ONLY
+
+## Requirements: Python 
+
 For demo purposes of our sophisticated bot protection.
 
 Bot Protection is no longer about Hydra anymore. 
